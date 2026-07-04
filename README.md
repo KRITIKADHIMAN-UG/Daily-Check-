@@ -20,3 +20,15 @@ Python
 JavaScript
 
 The language used depends on the problem, learning objectives, and experimentation with different approaches.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
