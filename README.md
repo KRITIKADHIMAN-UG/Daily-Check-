@@ -27,6 +27,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 <!---LeetCode Topics End-->
