@@ -27,6 +27,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
+| [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Hash Table
 |  |
@@ -40,8 +41,25 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
+| [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
