@@ -27,12 +27,14 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |
