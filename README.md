@@ -67,4 +67,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0608-tree-node](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0608-tree-node) |
 <!---LeetCode Topics End-->
