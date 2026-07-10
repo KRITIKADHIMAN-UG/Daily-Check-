@@ -40,6 +40,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -66,9 +68,18 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 ## Database
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0608-tree-node) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
