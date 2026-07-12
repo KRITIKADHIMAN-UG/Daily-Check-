@@ -60,6 +60,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
@@ -72,6 +73,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Database
@@ -87,10 +89,12 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Ordered Set
 |  |
