@@ -33,6 +33,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0503-next-greater-element-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
