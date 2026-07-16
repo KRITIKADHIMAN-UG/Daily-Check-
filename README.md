@@ -91,6 +91,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0175-combine-two-tables) |
 | [0608-tree-node](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0608-tree-node) |
 ## Backtracking
 |  |
