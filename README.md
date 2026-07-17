@@ -145,4 +145,13 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
+| [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
