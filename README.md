@@ -41,11 +41,13 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
+| [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
@@ -139,4 +141,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
+## Design
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
