@@ -139,6 +139,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Sorting
 |  |
@@ -161,6 +162,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -175,4 +177,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
