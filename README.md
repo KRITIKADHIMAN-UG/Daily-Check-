@@ -48,6 +48,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
