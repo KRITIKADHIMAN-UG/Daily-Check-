@@ -101,6 +101,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0176-second-highest-salary](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0182-duplicate-emails) |
 | [0608-tree-node](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0608-tree-node) |
+| [0626-exchange-seats](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0626-exchange-seats) |
 ## Backtracking
 |  |
 | ------- |
