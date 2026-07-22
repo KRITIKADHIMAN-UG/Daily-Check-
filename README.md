@@ -144,6 +144,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0725-split-linked-list-in-parts) |
 ## Sorting
 |  |
 | ------- |
