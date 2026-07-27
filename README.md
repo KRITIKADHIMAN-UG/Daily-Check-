@@ -128,6 +128,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
@@ -221,4 +222,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
