@@ -32,6 +32,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
@@ -166,6 +167,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
 ## Design
 |  |
@@ -193,10 +195,12 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
+| [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
