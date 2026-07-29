@@ -125,6 +125,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
@@ -145,12 +146,14 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -217,6 +220,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
