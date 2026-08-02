@@ -28,6 +28,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
@@ -176,6 +177,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
@@ -204,6 +206,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
