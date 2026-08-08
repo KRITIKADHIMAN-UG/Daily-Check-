@@ -42,6 +42,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
+| [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
@@ -126,6 +127,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 ## Interactive
 |  |
 | ------- |
@@ -266,4 +269,12 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
