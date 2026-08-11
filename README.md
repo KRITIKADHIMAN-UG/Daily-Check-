@@ -35,6 +35,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
@@ -53,6 +54,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
 ## String
