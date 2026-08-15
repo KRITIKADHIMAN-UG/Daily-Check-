@@ -97,6 +97,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -115,6 +116,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -143,6 +145,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -169,6 +172,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
