@@ -94,6 +94,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -113,6 +114,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -141,6 +143,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -170,6 +173,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
