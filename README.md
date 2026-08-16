@@ -232,6 +232,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -281,6 +282,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -305,4 +307,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0743-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
