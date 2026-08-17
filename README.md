@@ -64,6 +64,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
