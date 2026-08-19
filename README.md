@@ -203,6 +203,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
@@ -261,6 +262,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
 ## Union-Find
