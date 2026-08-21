@@ -151,6 +151,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0437-path-sum-iii) |
@@ -180,6 +181,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
@@ -190,6 +192,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -200,6 +203,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0210-course-schedule-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Linked List
 |  |
