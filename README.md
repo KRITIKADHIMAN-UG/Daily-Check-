@@ -210,6 +210,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
@@ -250,6 +251,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0011-container-with-most-water](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 ## Greedy
