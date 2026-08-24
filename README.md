@@ -71,6 +71,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
@@ -299,6 +300,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0322-coin-change) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
