@@ -32,6 +32,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
@@ -174,6 +175,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0538-convert-bst-to-greater-tree) |
