@@ -51,6 +51,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
@@ -280,6 +281,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting Sort
 |  |
 | ------- |
