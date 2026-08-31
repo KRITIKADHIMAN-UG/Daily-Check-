@@ -231,6 +231,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0725-split-linked-list-in-parts) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sorting
 |  |
 | ------- |
