@@ -80,6 +80,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
+| [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 ## Stack
@@ -248,6 +249,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
