@@ -58,6 +58,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
