@@ -83,6 +83,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
@@ -327,6 +328,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0322-coin-change) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
