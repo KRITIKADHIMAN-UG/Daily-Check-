@@ -277,6 +277,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
