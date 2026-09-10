@@ -61,6 +61,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3718-smallest-missing-multiple-of-k](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -282,6 +283,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3870-count-commas-in-range](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
