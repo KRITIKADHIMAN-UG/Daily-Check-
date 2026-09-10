@@ -127,6 +127,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0563-binary-tree-tilt](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0563-binary-tree-tilt) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Monotonic Stack
 |  |
@@ -148,6 +149,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0563-binary-tree-tilt](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0563-binary-tree-tilt) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
@@ -184,6 +186,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0743-network-delay-time](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Binary Search Tree
 |  |
