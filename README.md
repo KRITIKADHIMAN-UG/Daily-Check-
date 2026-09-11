@@ -70,6 +70,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
+| [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +90,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0115-distinct-subsequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
@@ -259,6 +261,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -408,4 +411,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
