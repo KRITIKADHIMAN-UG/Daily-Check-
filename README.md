@@ -57,6 +57,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -75,6 +76,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -313,6 +315,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0024-swap-nodes-in-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -401,4 +404,8 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
