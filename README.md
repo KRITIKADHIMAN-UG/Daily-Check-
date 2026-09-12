@@ -58,6 +58,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -207,6 +208,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Ordered Set
 |  |
 | ------- |
@@ -260,6 +262,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
 | ------- |
@@ -355,6 +358,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Interactive
 |  |
 | ------- |
