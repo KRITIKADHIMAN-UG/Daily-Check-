@@ -255,6 +255,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sorting
@@ -270,6 +271,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
+| [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 ## Simulation
