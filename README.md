@@ -38,6 +38,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -114,6 +115,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0743-network-delay-time) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
@@ -434,4 +436,20 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
