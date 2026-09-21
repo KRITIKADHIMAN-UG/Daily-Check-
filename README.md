@@ -48,6 +48,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0817-linked-list-components](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
@@ -83,6 +84,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0525-contiguous-array) |
+| [0817-linked-list-components](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0817-linked-list-components) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
@@ -264,6 +266,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sorting
 |  |
