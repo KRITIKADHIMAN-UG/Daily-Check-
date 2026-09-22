@@ -35,6 +35,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0035-search-insert-position](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
@@ -331,6 +332,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0011-container-with-most-water](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
@@ -372,6 +374,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0115-distinct-subsequences) |
