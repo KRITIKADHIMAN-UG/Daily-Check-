@@ -98,6 +98,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0006-zigzag-conversion](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
@@ -184,6 +185,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
@@ -367,6 +369,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
@@ -388,6 +391,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 ## Bit Manipulation
 |  |
