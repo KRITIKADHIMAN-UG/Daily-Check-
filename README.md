@@ -80,6 +80,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0142-linked-list-cycle-ii) |
@@ -101,6 +102,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
@@ -317,6 +319,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0002-add-two-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
