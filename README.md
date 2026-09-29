@@ -227,6 +227,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0033-search-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
 | [0374-guess-number-higher-or-lower](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0374-guess-number-higher-or-lower) |
@@ -325,6 +326,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0007-reverse-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
@@ -511,4 +513,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0399-evaluate-division) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
