@@ -336,6 +336,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0007-reverse-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
@@ -435,6 +436,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0029-divide-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
