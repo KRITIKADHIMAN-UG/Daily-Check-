@@ -130,6 +130,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 | [0503-next-greater-element-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
@@ -154,6 +155,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0144-binary-tree-preorder-traversal](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0538-convert-bst-to-greater-tree) |
@@ -214,6 +216,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0210-course-schedule-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -310,6 +313,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
@@ -494,6 +498,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -523,4 +528,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
