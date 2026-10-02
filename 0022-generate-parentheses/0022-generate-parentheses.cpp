@@ -1,20 +1,24 @@
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
+        if (n-- == 1) return {"()"};
+
         vector<string> res;
-        addingpar(res,"",n,0);
+        auto dfs = [&](auto& self, int O, int C, string s) -> void {
+            if (O == 0 && C == 0) {
+                res.push_back(s + ")");
+                return;
+            }
+
+            if (O > 0)
+                self(self, O - 1, C, s + "(");
+
+            if (C >= O)
+                self(self, O, C - 1, s + ")");
+        };
+
+        dfs(dfs, n, n, "(");
+
         return res;
-    }
-    void addingpar(vector<string>&v, string str, int n, int m){
-        if(n==0 && m==0){
-            v.push_back(str);
-            return;
-        }
-        if(m>0){
-            addingpar(v,str+")", n, m-1);
-        }
-        if(n>0){
-            addingpar(v, str+"(",n-1,m+1);
-        }
     }
 };
