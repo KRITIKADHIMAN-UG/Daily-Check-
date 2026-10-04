@@ -35,6 +35,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0033-search-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
@@ -85,6 +86,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
@@ -403,6 +405,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0835-image-overlap) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
