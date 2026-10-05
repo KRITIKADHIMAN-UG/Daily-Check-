@@ -152,6 +152,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -176,6 +177,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -211,6 +213,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -240,6 +243,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0501-find-mode-in-binary-search-tree) |
