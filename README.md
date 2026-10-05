@@ -41,6 +41,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
@@ -115,6 +116,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0165-compare-version-numbers) |
@@ -208,11 +210,13 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0112-path-sum) |
@@ -411,6 +415,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0036-valid-sudoku](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0835-image-overlap) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
