@@ -127,6 +127,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0399-evaluate-division](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0940-distinct-subsequences-ii) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
@@ -140,6 +141,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 | [0503-next-greater-element-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -386,6 +388,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting Sort
 |  |
@@ -452,6 +455,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
