@@ -42,6 +42,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
@@ -316,6 +317,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0018-4sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
@@ -369,6 +371,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0165-compare-version-numbers) |
@@ -554,4 +557,9 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
