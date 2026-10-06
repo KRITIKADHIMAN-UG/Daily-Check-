@@ -40,6 +40,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -314,6 +315,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0016-3sum-closest](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
@@ -548,4 +550,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
