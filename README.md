@@ -124,6 +124,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0165-compare-version-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
@@ -216,6 +217,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0039-combination-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0301-remove-invalid-parentheses) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 ## Depth-First Search
 |  |
@@ -273,6 +275,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0207-course-schedule](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0684-redundant-connection) |
