@@ -154,6 +154,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
@@ -310,6 +311,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0725-split-linked-list-in-parts) |
@@ -323,6 +325,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
@@ -379,6 +382,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
@@ -569,4 +573,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
