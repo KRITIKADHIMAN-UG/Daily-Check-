@@ -72,6 +72,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
@@ -527,6 +528,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
