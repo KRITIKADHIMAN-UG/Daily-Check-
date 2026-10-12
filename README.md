@@ -73,6 +73,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
@@ -105,6 +106,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0817-linked-list-components](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0817-linked-list-components) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -408,6 +410,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -482,6 +485,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0029-divide-two-integers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0029-divide-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bitmask
 |  |
 | ------- |
