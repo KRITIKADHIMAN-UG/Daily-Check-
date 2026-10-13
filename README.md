@@ -63,6 +63,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0817-linked-list-components](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
@@ -341,6 +342,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1051-height-checker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -418,6 +420,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1051-height-checker) |
 ## Recursion
 |  |
 | ------- |
@@ -594,6 +597,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1051-height-checker) |
 ## Merge Sort
 |  |
 | ------- |
