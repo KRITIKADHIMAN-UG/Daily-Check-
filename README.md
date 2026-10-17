@@ -75,6 +75,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
@@ -110,6 +111,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -611,4 +613,12 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
