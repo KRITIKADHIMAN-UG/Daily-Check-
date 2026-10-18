@@ -126,6 +126,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
@@ -367,6 +368,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 | [3379-transformed-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3379-transformed-array) |
@@ -384,6 +386,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0009-palindrome-number](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
