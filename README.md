@@ -69,6 +69,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
@@ -282,6 +283,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0701-insert-into-a-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Ordered Set
@@ -352,6 +354,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
