@@ -102,6 +102,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
@@ -334,6 +335,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
@@ -363,6 +365,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
@@ -627,4 +630,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
