@@ -228,6 +228,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0178-rank-scores](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0182-duplicate-emails) |
+| [0183-customers-who-never-order](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0608-tree-node](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0626-exchange-seats) |
