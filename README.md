@@ -130,6 +130,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
