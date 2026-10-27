@@ -134,6 +134,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0115-distinct-subsequences) |
