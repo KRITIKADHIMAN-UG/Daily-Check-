@@ -38,6 +38,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0035-search-insert-position](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
@@ -243,6 +244,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0301-remove-invalid-parentheses) |
