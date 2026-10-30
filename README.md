@@ -49,6 +49,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
@@ -107,6 +108,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0141-linked-list-cycle](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0409-longest-palindrome) |
@@ -181,6 +183,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
@@ -361,6 +364,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
@@ -391,6 +395,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
@@ -650,4 +655,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0146-lru-cache) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
