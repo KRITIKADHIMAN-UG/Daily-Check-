@@ -41,6 +41,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0040-combination-sum-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
@@ -182,6 +183,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
@@ -498,6 +500,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0091-decode-ways) |
