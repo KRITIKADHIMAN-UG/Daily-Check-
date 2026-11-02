@@ -62,6 +62,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
@@ -371,6 +372,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0217-contains-duplicate](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0455-assign-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -416,6 +418,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3723-maximize-sum-of-squares-of-digits) |
