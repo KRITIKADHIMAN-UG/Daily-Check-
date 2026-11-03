@@ -106,6 +106,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0001-two-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0049-group-anagrams) |
@@ -139,6 +140,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0014-longest-common-prefix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
@@ -609,6 +611,7 @@ The language used depends on the problem, learning objectives, and experimentati
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
