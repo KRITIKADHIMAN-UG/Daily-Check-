@@ -95,6 +95,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -422,6 +423,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3875-construct-uniform-parity-array-i) |
