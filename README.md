@@ -78,6 +78,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -185,6 +186,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
