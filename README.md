@@ -165,6 +165,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -597,6 +598,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -619,6 +621,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Monotonic Queue
 |  |
 | ------- |
