@@ -95,6 +95,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
+| [3693-climbing-stairs-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -531,6 +532,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3693-climbing-stairs-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3693-climbing-stairs-ii) |
 ## Interactive
 |  |
 | ------- |
