@@ -90,6 +90,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
