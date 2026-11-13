@@ -93,6 +93,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3590-kth-smallest-path-xor-sum) |
@@ -181,6 +182,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,6 +226,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0654-maximum-binary-tree) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -620,17 +623,20 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -677,6 +683,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Doubly-Linked List
 |  |
 | ------- |
