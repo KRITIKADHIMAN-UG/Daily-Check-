@@ -48,6 +48,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -304,6 +305,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0035-search-insert-position](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0099-recover-binary-search-tree) |
