@@ -77,6 +77,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1882-process-tasks-using-servers) |
@@ -436,6 +437,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -536,6 +538,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0940-distinct-subsequences-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2305-fair-distribution-of-cookies](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2305-fair-distribution-of-cookies) |
@@ -590,6 +593,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0525-contiguous-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3904-smallest-stable-index-ii) |
