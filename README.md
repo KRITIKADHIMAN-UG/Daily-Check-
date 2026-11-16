@@ -169,6 +169,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1021-remove-outermost-parentheses](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1021-remove-outermost-parentheses) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Stack
@@ -413,6 +414,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3379-transformed-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3379-transformed-array) |
 ## Counting
 |  |
