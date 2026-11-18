@@ -171,6 +171,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2942-find-words-containing-character) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Stack
