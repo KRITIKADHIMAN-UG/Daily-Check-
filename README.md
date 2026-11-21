@@ -45,6 +45,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0053-maximum-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0079-word-search) |
@@ -435,6 +436,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0013-roman-to-integer](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0096-unique-binary-search-trees) |
