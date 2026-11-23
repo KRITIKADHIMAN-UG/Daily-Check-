@@ -77,6 +77,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0896-monotonic-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1514-path-with-maximum-probability](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1514-path-with-maximum-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -411,6 +412,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0208-implement-trie-prefix-tree](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0208-implement-trie-prefix-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1396-design-underground-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -445,6 +447,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -604,6 +607,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | ------- |
 | [0525-contiguous-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3903-smallest-stable-index-i) |
@@ -709,4 +713,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
