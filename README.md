@@ -97,6 +97,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3046-split-the-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -450,6 +451,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -626,6 +628,7 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3483-unique-3-digit-even-numbers) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Trie
@@ -651,6 +654,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0220-contains-duplicate-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0239-sliding-window-maximum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Monotonic Queue
@@ -717,4 +721,8 @@ The language used depends on the problem, learning objectives, and experimentati
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
