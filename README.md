@@ -426,6 +426,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [0657-robot-return-to-origin](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1603-design-parking-system) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3379-transformed-array) |
 ## Counting
 |  |
@@ -454,6 +455,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1352-product-of-the-last-k-numbers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1872-stone-game-viii) |
+| [3360-stone-removal-game](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
