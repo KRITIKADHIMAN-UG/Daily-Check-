@@ -113,6 +113,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3903-smallest-stable-index-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -500,6 +501,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -565,6 +567,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3693-climbing-stairs-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Interactive
 |  |
 | ------- |
