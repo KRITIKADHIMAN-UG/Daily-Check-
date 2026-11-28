@@ -114,6 +114,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3904-smallest-stable-index-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [1631-path-with-minimum-effort](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -410,6 +412,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Design
 |  |
 | ------- |
@@ -502,6 +505,7 @@ The language used depends on the problem, learning objectives, and experimentati
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/KRITIKADHIMAN-UG/Daily-Check-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting Sort
 |  |
 | ------- |
